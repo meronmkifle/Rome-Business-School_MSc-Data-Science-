@@ -1,4 +1,4 @@
-# Rome-Business-School---MSc-Data-Science-
+# Rome-Business-School--MSc-Data-Science-Resources
 Course Materials and codebooks for MSc Rome Business School MSc Data Science Program  
 
 ## License
