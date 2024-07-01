@@ -1,5 +1,5 @@
 # Rome Business School: MSc Data Science Resources
-Course Materials and codebooks for the Rome Business School MSc Data Science Program  
+Course Materials and codebooks for the Rome Business School MSc Data Science   
 
 ## License
 
